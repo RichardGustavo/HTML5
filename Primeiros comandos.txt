@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Richard Gustavo</title>
+    </head>
+    <body>
+       <header>
+           <h1>Richard Gustavo</h1>
+       </header>
+       <section>
+           <header>
+               <h2>Posts</h2>
+           </header>
+           <article>
+               <header>  
+                   <h3>Post #1</h3>
+                   <img scr="Panjak.jpg" alt="Editor de texto contendo código html">
+               </header>
+           </article>
+           <p>
+            <a href ="https://www.linkedin.com/in/thain%C3%A1-caroline-bb6571235/"target="_blank">Link para seu linkedin.</a> 
+            Olha que legal, eu estou começando a aprender a edtitar sites, já consigo incluir links uteis para que voce possa entrar nele caso queira.
+            <a href= "mailto:Richrd.gustavo@icloud.com"></a>
+            Essa ultima parte é de enviar um <a href= "mailto:Richrd.gustavo@icloud.com">E-mail</a> para mim, isso pode ser alterado para qualquer E-mail, basta o usuário me informar.
+           </p>
+       </section>
+       <footer>
+           <ol>
+               <li>
+               <a href="mailto: richard.gustavo@icloud.com">richard.gustavo@icloud.com</a>
+           </li>
+           <li>
+                <a href="https://www.linkedin.com/in/richard-gustavo-23b681233/" target="_blank">Linkedin</a>
+                </li>
+           </ol>
+       </footer>  
+    </body>
+</html>
